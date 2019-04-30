@@ -1,0 +1,18 @@
+body{
+	font-family: $mainfont;
+	text-decoration: none;
+	text-align: center;
+	max-width: 100%;
+}
+
+nav ul{
+	@include navstyle;
+}
+
+a{
+	@include linkstyle;
+}
+
+section{
+	@include sectiongrid;
+}
