@@ -1,2 +1,2 @@
 ## boilerplate
-HTML boilerplate using SASS, Compass, CSS Grid
+HTML boilerplate using SASS and Compass
